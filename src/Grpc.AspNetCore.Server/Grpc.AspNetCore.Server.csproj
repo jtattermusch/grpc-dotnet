@@ -8,7 +8,7 @@
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/grpc/grpc-dotnet</PackageProjectUrl>
     <PackageTags>gRPC RPC HTTP/2 aspnetcore</PackageTags>
-    <VersionPrefix>0.0.1-dev</VersionPrefix>
+    <VersionPrefix>0.0.1-dev201902191851</VersionPrefix>
   </PropertyGroup>
 
   <PropertyGroup>
