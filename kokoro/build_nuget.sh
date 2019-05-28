@@ -30,3 +30,4 @@ mkdir -p artifacts
 build/expand_dev_version.sh
 
 (cd src/Grpc.AspNetCore.Server && dotnet pack --configuration Release --output ../../artifacts)
+(cd src/dotnet-grpc && dotnet pack --configuration Release --output ../../artifacts)
